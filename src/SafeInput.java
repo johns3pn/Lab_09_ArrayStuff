@@ -207,6 +207,7 @@ public class SafeInput {
         }
 
         System.out.println();
+
     }
 
 }

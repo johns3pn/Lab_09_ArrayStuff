@@ -125,5 +125,6 @@ public class Main
         }
 
         return total / values.length;
+
     }
 }
